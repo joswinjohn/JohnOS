@@ -125,8 +125,8 @@ wpa_supplicant
 wvdial
 xfsprogs
 xl2tpd
-
 zsh
+
 tmux
 polybar
 i3-wm
@@ -153,4 +153,11 @@ noto-fonts-cjk
 noto-fonts-emoji
 npm
 zoxide
-
+yarn
+nodejs
+npm
+girara
+zathura
+zathura-pdf-mupdf
+libsynctex
+latexmk
